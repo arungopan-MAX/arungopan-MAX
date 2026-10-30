@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Arun<br><br>🎓 First-year Computer Engineering student<br>💻 Currently learning C++ and Data Structures & Algorithms<br>🚀 Passionate about software development and AI<br>📚 Building projects and improving my problem-solving skills every day<br>🌱 Open to learning, collaborating, and growing as a developer
+👋 Hi, I'm Arun<br><br>🎓 First-year INFORMATION TECHNOLOGY Engineering student<br>💻 Currently learning C++ and Data Structures & Algorithms<br>🚀 Passionate about software development and AI<br>📚 Building projects and improving my problem-solving skills every day<br>🌱 Open to learning, collaborating, and growing as a developer
 
 
 ## 🌐 Socials:
